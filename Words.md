@@ -57,6 +57,39 @@
 | enchant | v. | 心を奪う，魅惑する | The music enchanted the audience. | en(中に) + chant(歌)=魔法をかける | ⬜ |
 | prove | v. | を証明する | The evidence proved his innocence. | 「プルーブ」=証拠で示す | ⬜ |
 | crust | n. | 外皮，地殻 | The bread has a crispy crust. | 「クラスト」=固い外側 | ⬜ |
+| lament | v./n. | を嘆く，嘆き悲しむ/嘆き | She lamented the loss of her friend. | 「ラメント」=悲しみの歌 | ⬜ |
+| disciple | n. | 弟子，信奉者 | He was a disciple of the famous teacher. | 「ディサイプル」=師に従う者 | ⬜ |
+| haul | v./n. | を運搬する，引っ張る/運搬 | They hauled the heavy boxes upstairs. | 「ホール」=重いものを引く | ⬜ |
+| exert | v. | 行使する，発揮する | He exerted all his strength. | ex(外に) + ert(働く)=外に力を働かせる | ⬜ |
+| folklore | n. | 民話，民俗学 | The story comes from local folklore. | folk(民衆) + lore(知識)=民衆の知識 | ⬜ |
+| glacier | n. | 氷河 | The glacier moved slowly down the mountain. | 「グレイシャー」=氷の川 | ⬜ |
+| concede | v. | 認める，譲歩する | He conceded that he was wrong. | con(完全に) + cede(譲る)=完全に譲る | ⬜ |
+| outgoing | adj. | 社交的な，外向的な | She has an outgoing personality. | out(外に) + going(行く)=外に向かう | ⬜ |
+| wreath | n. | 花輪，花冠 | They placed a wreath on the grave. | 「リース」=輪状の飾り | ⬜ |
+| strand | v./n. | 行き詰らせる，座礁させる/糸，繊維 | The ship was stranded on the beach. | 「ストランド」=岸に打ち上げられる | ⬜ |
+| oath | n. | 誓い，誓約 | He took an oath of allegiance. | 「オース」=神への誓い | ⬜ |
+| applicable | adj. | 該当する，適用できる | This rule is applicable to all students. | apply(適用する) + -able | ⬜ |
+| abbreviation | n. | 省略，略語 | "Dr." is an abbreviation for "Doctor." | abbreviate(省略する) + -tion | ⬜ |
+| menace | n./v. | 脅威，脅迫/を脅かす | The storm was a menace to ships. | 「メナス」=脅威をもたらすもの | ⬜ |
+| bait | n./v. | えさ，おとり/にえさをつける | The fisherman used worms as bait. | 「ベイト」=魚を誘うもの | ⬜ |
+| confer | v. | 授与する，相談する | The university conferred an honorary degree. | con(一緒に) + fer(運ぶ)=一緒に運ぶ | ⬜ |
+| apprentice | n./v. | 見習い，弟子/を見習いにする | He worked as an apprentice carpenter. | 「アプレンティス」=技術を学ぶ者 | ⬜ |
+| lapse | n./v. | 間違い，経過/陥る | There was a lapse in security. | 「ラプス」=滑り落ちる | ⬜ |
+| formidable | adj. | 恐ろしい，手ごわい | He faced a formidable opponent. | 「フォーミダブル」=恐れを抱かせる | ⬜ |
+| deem | v. | 考える，みなす | The judge deemed him guilty. | 「ディーム」=判断を下す | ⬜ |
+| avail | v./n. | 利用する，役立つ/利益 | The medicine didn't avail him. | 「アベイル」=有効である | ⬜ |
+| slumber | v./n. | まどろむ，心地よく眠る/眠り | The baby slumbered peacefully. | 「スランバー」=静かな眠り | ⬜ |
+| withstand | v. | 耐える，持ちこたえる | The building withstood the earthquake. | with(反対に) + stand(立つ)=反対に立ち向かう | ⬜ |
+
+### 🔄 復習中の熟語・表現
+
+| 表現 | 意味 | 例文 | 覚え方・メモ | 習得状況 |
+|------|------|------|-------------|----------|
+| to the point | 適切な，要領を得た | His answer was short and to the point. | point(要点)に向かって=的確 | ⬜ |
+| back up | を後援する，後退させる | Please back up your files. | back(後ろ) + up=後ろから支える | ⬜ |
+| scratch out | 線を引いて消す，を抹消する | He scratched out the wrong answer. | scratch(引っかく) + out(外に) | ⬜ |
+| stay off | から離れる，距離を取る | Stay off the grass! | stay(とどまる) + off(離れて) | ⬜ |
+| brush off | 無視する，軽く扱う | He brushed off her criticism. | brush(ブラシ)で払い落とす=軽く扱う | ⬜ |
 
 ### 🔄 復習中の単語
 
@@ -128,6 +161,12 @@
 | from hand to mouth | その日暮らしで，将来の備えをしないで | They live from hand to mouth. | 手から口へ=その場しのぎ | ⬜ |
 | go nuts | 気がふれる，怒り狂う | He went nuts when he heard the news. | nuts=気が狂った状態 | ⬜ |
 | under one's belt | 経験として，成し遂げて | You've got almost a year under your belt here now. | ベルトの下=しっかりとした経験 | ⬜ |
+| brush off | 無視する，軽く扱う | He brushed off her criticism. | brush(ブラシ)で払い落とす=軽く扱う | ⬜ |
+| wrap up | まとめる，結束する | Let's wrap up this meeting. | wrap(包む) + up=包んで終わらせる | ⬜ |
+| to the point | 適切な，要領を得た | His answer was short and to the point. | point(要点)に向かって=的確 | ⬜ |
+| back up | を後援する，後退させる | Please back up your files. | back(後ろ) + up=後ろから支える | ⬜ |
+| scratch out | 線を引いて消す，を抹消する | He scratched out the wrong answer. | scratch(引っかく) + out(外に) | ⬜ |
+| stay off | から離れる，距離を取る | Stay off the grass! | stay(とどまる) + off(離れて) | ⬜ |
 | brush off | 無視する，軽く扱う | He brushed off her criticism. | brush(ブラシ)で払い落とす=軽く扱う | ⬜ |
 
 ### ✅ 復習完了した単語
