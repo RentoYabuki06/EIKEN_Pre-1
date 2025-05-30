@@ -53,6 +53,34 @@
 | handful | n. | 一握りの | Only a handful of people came. | hand(手) + ful(満杯)=手一杯分 | ⬜ |
 | outer | adj. | 外に，外部の | The outer layer protects the inner one. | out(外) + -er | ⬜ |
 | agriest | adj. | 最も怒った | He was the agriest person I've ever seen. | angry(怒った)の最上級 | ⬜ |
+| mockingly | adv. | あざけるように，からかって | He spoke mockingly about her efforts. | mock(あざける) + -ing + -ly | ⬜ |
+| apparatus | n. | 装置，器具 | The laboratory apparatus is more complex than basic equipment or simple instruments. | appa(準備) + ratus(整えられた)=準備された装置 | ⬜ |
+| slam | v. | 強く打つ，激しく閉める | He slammed the door in anger. | 「スラム」=激しく打つ音 | ⬜ |
+| curse | v./n. | のろう，悪態をつく/のろい | He cursed when he hit his thumb. | 「カース」=のろいの呪文 | ⬜ |
+| maiden | n./adj. | 未婚女性，処女/初回の | The maiden voyage of the ship was successful. | 「メイデン」=純粋な女性 | ⬜ |
+| defy | v. | に反抗する，を無視する | He defied his parents' wishes. | de(反対に) + fy(作る)=反対を作る | ⬜ |
+| parliamentary | adj. | 議会の，国会の | The parliamentary session was extended. | parliament(議会) + -ary | ⬜ |
+| lest | conj. | ～しないように，～することのないように | He spoke quietly lest he wake the baby. | 「レスト」=恐れて、～しないように | ⬜ |
+| cemetery | n. | 墓地，霊園 | The old cemetery is located on the hill. | 「セメタリー」=お墓がある場所 | ⬜ |
+| salute | v./n. | 敬礼する，挨拶する/敬礼，挨拶 | The soldier saluted his commander. | 「サルート」=敬意を表す挨拶 | ⬜ |
+| threshold | n. | 敷居，入り口，境界 | We are on the threshold of a new era. | 「スレッシュホールド」=境界線・限界点 | ⬜ |
+| blunt | adj. | 鈍い，率直な | His blunt criticism hurt her feelings. | 「ブラント」=鋭くない、直接的 | ⬜ |
+| queer | adj. | 奇妙な，変な | There's something queer about his behavior. | 「クイアー」=普通でない、奇妙な | ⬜ |
+| exquisite | adj. | 精巧な，絶妙な | She wore an exquisite dress. | ex(外に) + quisite(求める)=外に求めるほど美しい | ⬜ |
+| tumble | v. | 転ぶ，転がる | The child tumbled down the hill. | 「タンブル」=転がり落ちる音 | ⬜ |
+| devour | v. | をむさぼり食う，を熱心に読む | He devoured the entire book in one night. | de(完全に) + vour(食べる)=完全に食べ尽くす | ⬜ |
+| artery | n. | 動脈，幹線道路 | The main artery was blocked by traffic. | 「アーテリー」=血液の主要通路 | ⬜ |
+| vein | n. | 静脈，血管/鉱脈，傾向 | Blood flows through veins back to the heart. | 「ベイン」=血液の通り道 | ⬜ |
+| skim | v. | をかすめる，を拾い読みする | He skimmed the article quickly. | 「スキム」=表面をさっと通る | ⬜ |
+| profound | adj. | 深い，深遠な | He made a profound impact on society. | pro(前に) + found(底)=底まで深い | ⬜ |
+| repent | v. | 悔い改める，後悔する | He repented his harsh words. | re(再び) + pent(考える)=再び考え直す | ⬜ |
+| fright | n. | 恐怖，驚き | She screamed in fright. | 「フライト」=恐怖で飛び上がる | ⬜ |
+| spur | v./n. | 刺激する，駆り立てる/拍車，刺激 | The competition spurred him to work harder. | 「スパー」=馬に付ける拍車で刺激 | ⬜ |
+| delegate | v./n. | 委任する，委託する/代表者，代議員 | The manager delegated the task to his assistant. | de(下に) + legate(送る)=下に送って任せる | ⬜ |
+| confide | v. | 打ち明ける，信頼して話す | She confided her secret to her best friend. | con(一緒に) + fide(信頼)=信頼して話す | ⬜ |
+| furnace | n. | 炉，かまど | The furnace heats the entire house. | 「ファーネス」=火を燃やす設備 | ⬜ |
+| quaint | adj. | 趣のある，古風で魅力的な | The quaint village attracted many tourists. | 「クエイント」=古き良き趣 | ⬜ |
+| sublime | adj. | 崇高な，荘厳な | The view from the mountain was sublime. | sub(下から) + lime(限界)=限界を超えた美しさ | ⬜ |
 
 ### 🔄 復習中の熟語・表現
 
@@ -87,3 +115,4 @@
 | from hand to mouth | その日暮らしで，将来の備えをしないで | They live from hand to mouth. | 手から口へ=その場しのぎ | ⬜ |
 | go nuts | 気がふれる，怒り狂う | He went nuts when he heard the news. | nuts=気が狂った状態 | ⬜ |
 | under one's belt | 経験として，成し遂げて | You've got almost a year under your belt here now. | ベルトの下=しっかりとした経験 | ⬜ |
+| brush off | 無視する，軽く扱う | He brushed off her criticism. | brush(ブラシ)で払い落とす=軽く扱う | ⬜ |
