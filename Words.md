@@ -140,6 +140,20 @@
 | rejoice | v. | をうれしがる，喜ぶ | They rejoiced at the good news. | re(再び) + joice(喜び) | ⬜ |
 | handful | n. | 一握りの | Only a handful of people came. | hand(手) + ful(満杯)=手一杯分 | ⬜ |
 | agriest | adj. | 最も怒った | He was the agriest person I've ever seen. | angry(怒った)の最上級 | ⬜ |
+| withstand | v. | 耐える，持ちこたえる | The building withstood the earthquake. | with(反対に) + stand(立つ)=反対に立ち向かう | ⬜ |
+| tyranny | n. | 専制政治，圧政 | The people rebelled against tyranny. | 「タイラニー」=独裁的支配 | ⬜ |
+| marshal | n./v. | 元帥/を整列させる，準備する | The general marshaled his troops. | 「マーシャル」=軍の指導者 | ⬜ |
+| messy | adj. | 乱雑な，汚い | His room is always messy. | mess(散らかり) + -y | ⬜ |
+| sip | v./n. | 一口飲む/一口 | She sipped her tea slowly. | 「シップ」=少しずつ飲む音 | ⬜ |
+| stout | adj. | 頑丈な，太った | He's a stout man with a kind heart. | 「スタウト」=がっしりした | ⬜ |
+| leftover | n./adj. | 残り物，食べ残し/残った | We had leftover pizza for lunch. | left(残った) + over(終わって) | ⬜ |
+| slant | n./v. | 傾斜/傾く | The roof has a steep slant. | 「スラント」=斜めの角度 | ⬜ |
+| cherish | v. | 大切にする，希望を抱く | She cherishes her childhood memories. | 「チェリッシュ」=大事に抱く | ⬜ |
+| subdue | v. | 鎮圧する，抑制する | The police subdued the rioters. | sub(下に) + due(従わせる) | ⬜ |
+| superb | adj. | 見事な，立派な | The performance was absolutely superb. | super(上) + b=超越した | ⬜ |
+| sullen | adj. | 不機嫌な，不機嫌そうな | He gave me a sullen look. | 「サレン」=暗く不機嫌な | ⬜ |
+| itch | n./v. | かゆみ，そう痒/かゆがる | The mosquito bite made me itch. | 「イッチ」=かゆみの感覚 | ⬜ |
+| dispatch | v./n. | を送る，発送する/急送 | They dispatched a rescue team immediately. | dis(離れて) + patch(送る) | ⬜ |
 
 
 ### 🔄 復習中の熟語・表現
@@ -173,6 +187,8 @@
 | scratch out | 線を引いて消す，を抹消する | He scratched out the wrong answer. | scratch(引っかく) + out(外に) | ⬜ |
 | stay off | から離れる，距離を取る | Stay off the grass! | stay(とどまる) + off(離れて) | ⬜ |
 | brush off | 無視する，軽く扱う | He brushed off her criticism. | brush(ブラシ)で払い落とす=軽く扱う | ⬜ |
+| come to a head | 山場を迎える，クライマックスを迎える | The crisis came to a head yesterday. | head(頭)=頂点に来る | ⬜ |
+| play at | 起用する，遊ぶ | The children played at being doctors. | play(遊ぶ) + at(～として) | ⬜ |
 
 ### ✅ 復習完了した単語
 | 単語 | 品詞 | 意味 | 例文 | 覚え方・メモ | 習得状況 |
@@ -187,6 +203,7 @@
 | prove | v. | を証明する | The evidence proved his innocence. | 「プルーブ」=証拠で示す | ⬜ |
 | exert | v. | 行使する，発揮する | He exerted all his strength. | ex(外に) + ert(働く)=外に力を働かせる | ⬜ |
 | embark | v. | 積み込む，乗船する，着手する | We embarked on a new project. | em(中に) + bark(船)=船に乗り込む | ⬜ |
+| pedestrian | n./adj. | 歩行者/平凡な | The pedestrian crossed the street safely. | ped(足) + estrian(歩く人) | ⬜ |
 
 ### ✅ 復習完了した熟語・表現
 | 表現 | 意味 | 例文 | 覚え方・メモ | 習得状況 |
