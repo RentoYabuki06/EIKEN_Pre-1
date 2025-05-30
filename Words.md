@@ -9,6 +9,31 @@
 
 ## 📚 単語リスト
 
+### memo
+ - baitとlureの使い分け
+     - 釣りの文脈で
+         - baitは生きている本物のエサ
+             - He used worms as bait to catch trout.
+             - The fisherman attached fresh bait to his hook.
+         - lureはプラスチック製の疑似餌
+             - She caught a big fish using a colorful lure.
+             - The lure looked like a small fish swimming in the water.
+     - 詐欺などの文脈では
+         - baitは誘いのための魅力的なもの
+             - The free gift was just bait to get customers into the store.
+             - Don't take the bait - it's obviously a scam.
+         - lureは 魅力や報酬を使って引き寄せる
+         	- They tried to lure her into joining the cult.
+         	- The company lured talented employees with high salaries.
+ - conferとgrantの使い分け
+	 - conferは特別な権利や名誉・称号などを正式に授与する（儀式的・格式が強い）
+		 - The university conferred an honorary degree on the scientist.
+		 - The committee will confer the award next week.
+	 - grantは願いや請求に応じて何かを許可したり資金を与える（実用上のメリットがある行為）
+		 - The government granted funds for the new project.
+		 - She was granted permission to travel abroad.
+
+
 ### 💡 重点復習中の単語（直近2,3日で間違えた単語たち）
 | 単語 | 品詞 | 意味 | 例文 | 覚え方・メモ | 習得状況 |
 |------|------|------|------|-------------|----------|
