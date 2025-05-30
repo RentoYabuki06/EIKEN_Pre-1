@@ -52,6 +52,7 @@
 | rejoice | v. | をうれしがる，喜ぶ | They rejoiced at the good news. | re(再び) + joice(喜び) | ⬜ |
 | handful | n. | 一握りの | Only a handful of people came. | hand(手) + ful(満杯)=手一杯分 | ⬜ |
 | outer | adj. | 外に，外部の | The outer layer protects the inner one. | out(外) + -er | ⬜ |
+| agriest | adj. | 最も怒った | He was the agriest person I've ever seen. | angry(怒った)の最上級 | ⬜ |
 
 ### 🔄 復習中の熟語・表現
 
@@ -85,4 +86,4 @@
 | issue A to B | AをBに支給する，発行する | The company issued new uniforms to employees. | issue=発行する、支給する | ⬜ |
 | from hand to mouth | その日暮らしで，将来の備えをしないで | They live from hand to mouth. | 手から口へ=その場しのぎ | ⬜ |
 | go nuts | 気がふれる，怒り狂う | He went nuts when he heard the news. | nuts=気が狂った状態 | ⬜ |
-
+| under one's belt | 経験として，成し遂げて | You've got almost a year under your belt here now. | ベルトの下=しっかりとした経験 | ⬜ |
