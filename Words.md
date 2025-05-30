@@ -168,6 +168,21 @@
 | foggy | adj. | 霧のかかった，ぼんやりした | It's too foggy to drive safely. | fog(霧) + -gy | ⬜ |
 | plumber | n. | 配管工 | We called a plumber to fix the pipes. | plumb(鉛)=鉛管を扱う職人 | ⬜ |
 | alleviate | v. | を軽減する，和らげる | The medicine helped alleviate the pain. | ad(～に向かって) + levi(軽い) + ate=軽くする | ⬜ |
+| clumsy | adj. | 不器用な，ぎこちない | He's clumsy with his hands. | 「クラムジー」=ぎこちない動き | ⬜ |
+| pouch | n. | 小袋，ポーチ | She kept coins in her pouch. | 「パウチ」=小さい袋 | ⬜ |
+| tariff | n. | 関税，料金表 | The government imposed a tariff on imports. | 「タリフ」=貿易税 | ⬜ |
+| growl | v./n. | うなる/うなり声 | The dog growled at the stranger. | 「グロウル」=低いうなり音 | ⬜ |
+| conform | v. | 従う，適合する | Students must conform to school rules. | con(一緒に) + form(形)=同じ形になる | ⬜ |
+| colonel | n. | 大佐 | The colonel led his regiment. | 「カーネル」=軍の階級 | ⬜ |
+| malice | n. | 悪意，敵意 | He acted without malice. | 「マリス」=悪い意図 | ⬜ |
+| sermon | n. | 説教，説法 | The pastor gave a sermon. | 「サーモン」=宗教的講話 | ⬜ |
+| disappearance | n. | 失踪，消滅 | The disappearance remains a mystery. | disappear(消える) + -ance | ⬜ |
+| heed | v./n. | 注意する，気を付ける/注意 | You should heed his warning. | 「ヒード」=心に留める | ⬜ |
+| specimen | n. | 標本，見本 | The museum has rare specimens. | 「スペシメン」=調査用の見本 | ⬜ |
+| bough | n. | 大きな枝 | The bough broke under the weight. | 「バウ」=太い木の枝 | ⬜ |
+| lessen | v. | 減らす，少なくする | The pain will lessen over time. | less(少ない) + -en | ⬜ |
+| hearth | n. | 囲炉裏，暖炉 | The family gathered around the hearth. | 「ハース」=家庭の温かい場所 | ⬜ |
+| allied | adj. | 同盟を結んでいる，連携している | The allied forces worked together. | ally(同盟国) + -ed | ⬜ |
 
 ### 🔄 復習中の熟語・表現
 
@@ -204,6 +219,15 @@
 | play at | 起用する，遊ぶ | The children played at being doctors. | play(遊ぶ) + at(～として) | ⬜ |
 | down payment | 頭金，手付金 | We made a down payment on the house. | down(下に)=最初に払うお金 | ⬜ |
 | take on | を雇う，引き受ける，採用する | The company took on new employees. | take(取る) + on(引き受ける) | ⬜ |
+| let out | 外に出す，解放する | They let the prisoners out early. | let(させる) + out(外に) | ⬜ |
+| get in on | 加わる，乗り込む | I want to get in on this deal. | get(得る) + in(中に) + on(参加) | ⬜ |
+| in order | 順序通りに，整った | Please keep everything in order. | order(順序)の中に=整然と | ⬜ |
+| stand up to | に抵抗する，耐える，反抗する | He stood up to the bully. | stand(立つ) + up(上に) + to(向かって) | ⬜ |
+| give over | を任せる，委ねる | Give over the keys to me. | give(与える) + over(向こうに) | ⬜ |
+| be laid up | 寝込む，寝たきりになる，病床にある | He's laid up with the flu. | lay(横たえる) + up(上に)=横になって | ⬜ |
+| catch on | 流行する，受け入れられる | The new style caught on quickly. | catch(つかむ) + on(続く)=広まる | ⬜ |
+| buckle down | 精を出す，全力を尽くす | It's time to buckle down and study. | buckle(バックル)=しっかり締める | ⬜ |
+| play down | を軽く扱う，手軽に扱う，を見くびる | Don't play down the importance of this. | play(演じる) + down(下に)=軽く扱う | ⬜ |
 
 ### ✅ 復習完了した単語
 | 単語 | 品詞 | 意味 | 例文 | 覚え方・メモ | 習得状況 |
