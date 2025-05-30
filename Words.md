@@ -167,7 +167,7 @@
 | surplus | n./adj. | 余剰，余り/余った | We have a surplus of food. | sur(上に) + plus(加える)=余分 | ⬜ |
 | foggy | adj. | 霧のかかった，ぼんやりした | It's too foggy to drive safely. | fog(霧) + -gy | ⬜ |
 | plumber | n. | 配管工 | We called a plumber to fix the pipes. | plumb(鉛)=鉛管を扱う職人 | ⬜ |
-
+| alleviate | v. | を軽減する，和らげる | The medicine helped alleviate the pain. | ad(～に向かって) + levi(軽い) + ate=軽くする | ⬜ |
 
 ### 🔄 復習中の熟語・表現
 
