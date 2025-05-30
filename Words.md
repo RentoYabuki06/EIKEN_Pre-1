@@ -144,7 +144,7 @@
 | tyranny | n. | 専制政治，圧政 | The people rebelled against tyranny. | 「タイラニー」=独裁的支配 | ⬜ |
 | marshal | n./v. | 元帥/を整列させる，準備する | The general marshaled his troops. | 「マーシャル」=軍の指導者 | ⬜ |
 | messy | adj. | 乱雑な，汚い | His room is always messy. | mess(散らかり) + -y | ⬜ |
-| sip | v./n. | 一口飲む/一口 | She sipped her tea slowly. | 「シップ」=少しずつ飲む音 | ⬜ |
+| sip | v./n. | 一口飲む/一口 | She sipped her tea slowly. /  Can I have a sip of your drink? | 「シップ」=少しずつ飲む音 | ⬜ |
 | stout | adj. | 頑丈な，太った | He's a stout man with a kind heart. | 「スタウト」=がっしりした | ⬜ |
 | leftover | n./adj. | 残り物，食べ残し/残った | We had leftover pizza for lunch. | left(残った) + over(終わって) | ⬜ |
 | slant | n./v. | 傾斜/傾く | The roof has a steep slant. | 「スラント」=斜めの角度 | ⬜ |
@@ -154,6 +154,19 @@
 | sullen | adj. | 不機嫌な，不機嫌そうな | He gave me a sullen look. | 「サレン」=暗く不機嫌な | ⬜ |
 | itch | n./v. | かゆみ，そう痒/かゆがる | The mosquito bite made me itch. | 「イッチ」=かゆみの感覚 | ⬜ |
 | dispatch | v./n. | を送る，発送する/急送 | They dispatched a rescue team immediately. | dis(離れて) + patch(送る) | ⬜ |
+| reckon | v. | を数える，計算する，思う | I reckon it will rain today. | 「レコン」=考えて計算する | ⬜ |
+| forsake | v. | を見捨てる，突き放す | He forsook his friends in need. | for(完全に) + sake(離れる)=完全に離れる | ⬜ |
+| doom | n./v. | 破滅，悪い運命/を運命づける | The project was doomed to fail. | 「ドゥーム」=暗い運命 | ⬜ |
+| rot | v./n. | 腐敗する，腐る/腐敗 | The wood began to rot. | 「ロット」=腐る音 | ⬜ |
+| toil | v./n. | 苦労して働く，懸命に働く/重労働 | He toiled in the fields all day. | 「トイル」=苦労の音 | ⬜ |
+| rein | n./v. | 手綱，馬具/を制御する | He held the reins tightly. | 「レイン」=馬を制御する綱 | ⬜ |
+| tranquil | adj. | 静かな，平穏な | The lake was tranquil in the morning. | trans(超えて) + quil(静か)=完全に静か | ⬜ |
+| rotten | adj. | 腐った，腐敗した | The apple is rotten. | rot(腐る) + -en | ⬜ |
+| polar | adj. | 極地の，正反対の | Polar bears live in the Arctic. | pole(極) + -ar | ⬜ |
+| gracious | adj. | 優雅な，親切な | She was very gracious to her guests. | grace(優雅さ) + -ious | ⬜ |
+| surplus | n./adj. | 余剰，余り/余った | We have a surplus of food. | sur(上に) + plus(加える)=余分 | ⬜ |
+| foggy | adj. | 霧のかかった，ぼんやりした | It's too foggy to drive safely. | fog(霧) + -gy | ⬜ |
+| plumber | n. | 配管工 | We called a plumber to fix the pipes. | plumb(鉛)=鉛管を扱う職人 | ⬜ |
 
 
 ### 🔄 復習中の熟語・表現
@@ -189,6 +202,8 @@
 | brush off | 無視する，軽く扱う | He brushed off her criticism. | brush(ブラシ)で払い落とす=軽く扱う | ⬜ |
 | come to a head | 山場を迎える，クライマックスを迎える | The crisis came to a head yesterday. | head(頭)=頂点に来る | ⬜ |
 | play at | 起用する，遊ぶ | The children played at being doctors. | play(遊ぶ) + at(～として) | ⬜ |
+| down payment | 頭金，手付金 | We made a down payment on the house. | down(下に)=最初に払うお金 | ⬜ |
+| take on | を雇う，引き受ける，採用する | The company took on new employees. | take(取る) + on(引き受ける) | ⬜ |
 
 ### ✅ 復習完了した単語
 | 単語 | 品詞 | 意味 | 例文 | 覚え方・メモ | 習得状況 |
