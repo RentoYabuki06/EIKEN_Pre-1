@@ -68,7 +68,6 @@
 | frustrate | v. | 挫折させる，妨害する | The delay frustrated our plans. | 「フラストレート」=イライラさせる | ⬜ |
 | nuisance | n. | 迷惑なもの，厄介なもの | The noise is a real nuisance. | 「ニューサンス」=迷惑な存在 | ⬜ |
 | utterance | n. | 発言，発声 | His utterance was barely audible. | utter(発する) + -ance | ⬜ |
-| embark | v. | 積み込む，乗船する，着手する | We embarked on a new project. | em(中に) + bark(船)=船に乗り込む | ⬜ |
 | conspiracy | n. | 陰謀，共謀 | They uncovered a conspiracy. | con(一緒に) + spire(呼吸)=息を合わせる | ⬜ |
 | snore | v./n. | いびきをかく/いびき | He snores loudly at night. | 「スノア」=いびきの音 | ⬜ |
 | pathetic | adj. | 哀れな，みじめな | The situation was pathetic. | pathos(感情) + -etic=感情を呼び起こす | ⬜ |
@@ -79,13 +78,10 @@
 | forum | n. | 公開討論会，フォーラム | The forum discussed important issues. | 「フォーラム」=公開の場 | ⬜ |
 | desolate | adj. | 荒れ果てた，寂しい | The desolate landscape stretched endlessly. | de(完全に) + sol(孤独)=完全に孤独 | ⬜ |
 | wither | v. | 枯れる，しおれる | The flowers withered in the heat. | 「ウィザー」=枯れてしまう | ⬜ |
-| enchant | v. | 心を奪う，魅惑する | The music enchanted the audience. | en(中に) + chant(歌)=魔法をかける | ⬜ |
-| prove | v. | を証明する | The evidence proved his innocence. | 「プルーブ」=証拠で示す | ⬜ |
 | crust | n. | 外皮，地殻 | The bread has a crispy crust. | 「クラスト」=固い外側 | ⬜ |
 | lament | v./n. | を嘆く，嘆き悲しむ/嘆き | She lamented the loss of her friend. | 「ラメント」=悲しみの歌 | ⬜ |
 | disciple | n. | 弟子，信奉者 | He was a disciple of the famous teacher. | 「ディサイプル」=師に従う者 | ⬜ |
 | haul | v./n. | を運搬する，引っ張る/運搬 | They hauled the heavy boxes upstairs. | 「ホール」=重いものを引く | ⬜ |
-| exert | v. | 行使する，発揮する | He exerted all his strength. | ex(外に) + ert(働く)=外に力を働かせる | ⬜ |
 | folklore | n. | 民話，民俗学 | The story comes from local folklore. | folk(民衆) + lore(知識)=民衆の知識 | ⬜ |
 | glacier | n. | 氷河 | The glacier moved slowly down the mountain. | 「グレイシャー」=氷の川 | ⬜ |
 | concede | v. | 認める，譲歩する | He conceded that he was wrong. | con(完全に) + cede(譲る)=完全に譲る | ⬜ |
@@ -106,16 +102,6 @@
 | slumber | v./n. | まどろむ，心地よく眠る/眠り | The baby slumbered peacefully. | 「スランバー」=静かな眠り | ⬜ |
 | withstand | v. | 耐える，持ちこたえる | The building withstood the earthquake. | with(反対に) + stand(立つ)=反対に立ち向かう | ⬜ |
 
-### 🔄 復習中の熟語・表現
-
-| 表現 | 意味 | 例文 | 覚え方・メモ | 習得状況 |
-|------|------|------|-------------|----------|
-| to the point | 適切な，要領を得た | His answer was short and to the point. | point(要点)に向かって=的確 | ⬜ |
-| back up | を後援する，後退させる | Please back up your files. | back(後ろ) + up=後ろから支える | ⬜ |
-| scratch out | 線を引いて消す，を抹消する | He scratched out the wrong answer. | scratch(引っかく) + out(外に) | ⬜ |
-| stay off | から離れる，距離を取る | Stay off the grass! | stay(とどまる) + off(離れて) | ⬜ |
-| brush off | 無視する，軽く扱う | He brushed off her criticism. | brush(ブラシ)で払い落とす=軽く扱う | ⬜ |
-
 ### 🔄 復習中の単語
 
 | 単語 | 品詞 | 意味 | 例文 | 覚え方・メモ | 習得状況 |
@@ -124,10 +110,8 @@
 | mellow | adj. | 豊潤な，熟した | The wine has a mellow taste. | mellowは柔らかい音 | ⬜ |
 | paw | n. | 動物の足 | The cat's paw was injured. | 「パウ」=動物の足音 | ⬜ |
 | accusation | n. | 非難，告発 | He denied the accusation. | accuse(告発する) + -ation | ⬜ |
-| distinctive | adj. | 特有の，独特の | She has a distinctive voice. | distinct(区別) + -ive | ⬜ |
 | stoop | v. | かがむ | He had to stoop to enter the cave. | 「ストゥープ」=背中を曲げる音 | ⬜ |
 | alley | n. | 路地 | The cat ran into the dark alley. | 「アリー」=狭い道 | ⬜ |
-| ethnic | adj. | 民族の，民族特有の | The restaurant serves ethnic food. | ethnicity(民族性)の形容詞 | ⬜ |
 | shiver | v. | 震える，おののく | I shiver when it's cold. | 「シバー」=震える音 | ⬜ |
 | exploit | n. | 偉業，業績 | His exploits were legendary. | ex(外に) + ploit(折る)=外に示す業績 | ⬜ |
 | decent | adj. | まともな | He's a decent person. | de(完全に) + cent(価値)=価値ある | ⬜ |
@@ -155,7 +139,6 @@
 | limb | n. | 手足，四肢 | He injured his limb. | 「リム」=体の端の部分 | ⬜ |
 | rejoice | v. | をうれしがる，喜ぶ | They rejoiced at the good news. | re(再び) + joice(喜び) | ⬜ |
 | handful | n. | 一握りの | Only a handful of people came. | hand(手) + ful(満杯)=手一杯分 | ⬜ |
-| outer | adj. | 外に，外部の | The outer layer protects the inner one. | out(外) + -er | ⬜ |
 | agriest | adj. | 最も怒った | He was the agriest person I've ever seen. | angry(怒った)の最上級 | ⬜ |
 
 
@@ -180,7 +163,6 @@
 | let on | 漏らす，白状する | Don't let on that you know. | let(させる) + on(表に)=秘密を漏らす | ⬜ |
 | infringe on | 侵害する，侵犯する | This infringes on our rights. | in(中に) + fringe(縁)=境界を侵す | ⬜ |
 | bear the brunt of | の矢面に立つ，まともに受ける | He bore the brunt of the criticism. | brunt=攻撃の最も激しい部分 | ⬜ |
-| make haste | 急ぐ，手早くする | Make haste or we'll be late. | haste=急ぎ、急速 | ⬜ |
 | set forth | 説明する，を明らかにする | He set forth his plan clearly. | set(置く) + forth(前に)=前に出す | ⬜ |
 | issue A to B | AをBに支給する，発行する | The company issued new uniforms to employees. | issue=発行する、支給する | ⬜ |
 | from hand to mouth | その日暮らしで，将来の備えをしないで | They live from hand to mouth. | 手から口へ=その場しのぎ | ⬜ |
@@ -188,8 +170,6 @@
 | under one's belt | 経験として，成し遂げて | You've got almost a year under your belt here now. | ベルトの下=しっかりとした経験 | ⬜ |
 | brush off | 無視する，軽く扱う | He brushed off her criticism. | brush(ブラシ)で払い落とす=軽く扱う | ⬜ |
 | wrap up | まとめる，結束する | Let's wrap up this meeting. | wrap(包む) + up=包んで終わらせる | ⬜ |
-| to the point | 適切な，要領を得た | His answer was short and to the point. | point(要点)に向かって=的確 | ⬜ |
-| back up | を後援する，後退させる | Please back up your files. | back(後ろ) + up=後ろから支える | ⬜ |
 | scratch out | 線を引いて消す，を抹消する | He scratched out the wrong answer. | scratch(引っかく) + out(外に) | ⬜ |
 | stay off | から離れる，距離を取る | Stay off the grass! | stay(とどまる) + off(離れて) | ⬜ |
 | brush off | 無視する，軽く扱う | He brushed off her criticism. | brush(ブラシ)で払い落とす=軽く扱う | ⬜ |
@@ -199,7 +179,14 @@
 |------|------|------|------|-------------|----------|
 | attentive | adj. | 注意深い | She is very attentive to details. | attention(注意) + -ive | ⬜ |
 | canal | n. | 運河 | The Panama Canal is famous. | 「カナル」=人工の水路 | ⬜ |
+| enchant | v. | 心を奪う，魅惑する | The music enchanted the audience. | en(中に) + chant(歌)=魔法をかける | ⬜ |
 | ample | adj. | 広大な，広い | We have ample time to finish. | 「アンプル」=十分な量の容器 | ⬜ |
+| outer | adj. | 外に，外部の | The outer layer protects the inner one. | out(外) + -er | ⬜ |
+| ethnic | adj. | 民族の，民族特有の | The restaurant serves ethnic food. | ethnicity(民族性)の形容詞 | ⬜ |
+| distinctive | adj. | 特有の，独特の | She has a distinctive voice. | distinct(区別) + -ive | ⬜ |
+| prove | v. | を証明する | The evidence proved his innocence. | 「プルーブ」=証拠で示す | ⬜ |
+| exert | v. | 行使する，発揮する | He exerted all his strength. | ex(外に) + ert(働く)=外に力を働かせる | ⬜ |
+| embark | v. | 積み込む，乗船する，着手する | We embarked on a new project. | em(中に) + bark(船)=船に乗り込む | ⬜ |
 
 ### ✅ 復習完了した熟語・表現
 | 表現 | 意味 | 例文 | 覚え方・メモ | 習得状況 |
@@ -210,3 +197,6 @@
 | alongside | と一緒に，並行して | We worked alongside experienced workers. | along(一緒に) + side(側) | ⬜ |
 | as a last resort | 最後の手段として | As a last resort, we called the police. | resort=手段、最後の手段 | ⬜ |
 | drum up | 呼び集める，募集する | We need to drum up support. | drum(太鼓)で人を集める | ⬜ |
+| make haste | 急ぐ，手早くする | Make haste or we'll be late. | haste=急ぎ、急速 | ⬜ |
+| to the point | 適切な，要領を得た | His answer was short and to the point. | point(要点)に向かって=的確 | ⬜ |
+| back up | を後援する，後退させる | Please back up your files. | back(後ろ) + up=後ろから支える | ⬜ |
