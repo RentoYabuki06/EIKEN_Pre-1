@@ -156,6 +156,7 @@
 | arrogance | n. | 傲慢，高慢 | His arrogance made him unpopular. | arrogant(傲慢な) + -ce | ⬜ |
 | tribal | adj. | 部族の | They follow tribal customs. | tribe(部族) + -al | ⬜ |
 | pier | n. | 桟橋，波止場 | We walked along the pier. | 「ピア」=水辺の突堤 | ⬜ |
+| exploit | n./v. | 偉業，業績/を利用する，悪用する | His exploits were legendary. / They exploited the workers. | ex(外に) + ploit(折る)=外に示す業績・利用する | ⬜ |
 
 ### 🔄 復習中の単語
 
