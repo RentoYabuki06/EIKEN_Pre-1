@@ -10,7 +10,16 @@
 ## 📚 単語リスト
 
 ### memo
- - 起訴する
+ - infertilityとsterileの使い分け
+     - infertilityは医学的な「不妊症」（治療可能な場合もある状態）
+         - The couple struggled with infertility for years. (その夫婦は何年も不妊症に悩んだ)
+         - Infertility treatments have advanced significantly. (不妊治療は大幅に進歩した)
+         - Male infertility can be caused by various factors. (男性不妊症は様々な要因で起こる)
+     - sterileは完全に「無菌の、生殖能力のない」（永続的・絶対的状態）
+         - The surgical instruments must be sterile. (手術器具は無菌でなければならない)
+         - The mule is sterile and cannot reproduce. (ラバは生殖能力がなく繁殖できない)
+         - Keep the wound sterile to prevent infection. (感染を防ぐため傷口を無菌に保て)
+ - 「起訴する」の使い分け
     - 民事裁判：sue
     - 刑事裁判：prosecute
  - baitとlureの使い分け
