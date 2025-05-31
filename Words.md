@@ -111,6 +111,7 @@
 | serene | adj. | 穏やかな，平静な | The lake was serene in the moonlight. | 「セリーン」=静寂で美しい | ⬜ |
 | vacate | v. | を明け渡す，立ち退く | They must vacate the building by noon. | vac(空) + ate=空にする | ⬜ |
 | pledge | v./n. | を誓約する，約束する/誓約 | He pledged to help the poor. | 「プレッジ」=固い約束 | ⬜ |
+| spoil | v. | 台無しにする，損なう, 甘やかす | Don't spoil the surprise. / He spoiled her daugher. | 「スポイル」=ダメにする | ⬜ |
 
 ### 🔄 復習中の単語
 
