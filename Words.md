@@ -166,7 +166,13 @@
 | tribal | adj. | 部族の | They follow tribal customs. | tribe(部族) + -al | ⬜ |
 | pier | n. | 桟橋，波止場 | We walked along the pier. | 「ピア」=水辺の突堤 | ⬜ |
 | exploit | n./v. | 偉業，業績/を利用する，悪用する | His exploits were legendary. / They exploited the workers. | ex(外に) + ploit(折る)=外に示す業績・利用する | ⬜ |
-
+| allegation | n. | 主張，申し立て | The allegation against him was serious. | allege(申し立てる) + -ation | ⬜ |
+| negligible | adj. | 取るに足らない，無視できる | The difference is negligible. | neg(否定) + lig(選ぶ) + ible=選ぶ価値がない | ⬜ |
+| sterile | adj. | 殺菌した，不妊の | The surgical instruments must be sterile. | 「ステライル」=生命力のない | ⬜ |
+| craze | v./n. | 発狂させる，夢中にさせる/大流行 | The new game created a craze. | 「クレイズ」=狂わせる、熱狂 | ⬜ |
+| resolute | adj. | 断固たる，決然とした | She was resolute in her decision. | re(再び) + solute(解決)=固く決意した | ⬜ |
+| coup | n. | 大当たり，クーデター | His promotion was quite a coup. | 「クー」=一撃、大成功 | ⬜ |
+| humiliate | v. | に恥をかかせる，屈辱を与える | Don't humiliate him in public. | humil(謙遜) + iate=謙遜させる→恥をかかせる | ⬜ |
 ### 🔄 復習中の単語
 
 | 単語 | 品詞 | 意味 | 例文 | 覚え方・メモ | 習得状況 |
@@ -307,6 +313,9 @@
 | pass out | 気絶する，失神する | She passed out from the heat. | pass(通り過ぎる) + out(外に)=意識が外に | ⬜ |
 | on balance | 考慮すると，結局 | On balance, the plan is good. | balance(天秤)で考えると | ⬜ |
 | hitherto | 従来，今まで | Hitherto unknown facts were revealed. | 「ヒザートゥー」=これまでのところ | ⬜ |
+| break in on | に割り込む，邪魔をする | I don't want to break in on your conversation. | break(破る) + in(中に) + on(続いて)=会話に割り込む | ⬜ |
+| kick around | 粗末に扱う，酷使する | Don't kick me around like that. | kick(蹴る) + around(あちこち)=乱暴に扱う | ⬜ |
+| keep A out of B | AをBに入れない，AをBに含めない | Keep children out of the kitchen. | keep(保つ) + out(外に) + of(～から) | ⬜ |
 
 ### ✅ 復習完了した単語
 | 単語 | 品詞 | 意味 | 例文 | 覚え方・メモ | 習得状況 |
