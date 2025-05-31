@@ -124,6 +124,38 @@
 | allege | v. | 「（証拠なしに）～を主張する」「申し立てる」 | He alleged that he was unfairly fired. | allege(申し立てる) | ⬜ |
 | agitation | n. | 動揺，興奮，扇動 | The news caused great agitation. | agitate(興奮させる) + -tion | ⬜ |
 | pediatric | adj. | 小児科の，小児医学の | She works in the pediatric ward. | ped(子供) + iatr(医者) + ic | ⬜ |
+| assault | n./v. | 暴行，攻撃/を襲撃する | He was charged with assault. | 「アソルト」=攻撃的行為 | ⬜ |
+| propel | v. | を推し進める，前進させる | The engine propels the ship forward. | pro(前に) + pel(押す)=前に押し出す | ⬜ |
+| treacherous | adj. | 裏切った，反逆の | The treacherous spy was caught. | treacher(裏切り者) + -ous | ⬜ |
+| rave | v./n. | 夢中で話す，絶賛する/絶賛 | Critics raved about the new movie. | 「レイブ」=熱狂的に話す | ⬜ |
+| bail | n./v. | 保釈，保釈金/を保釈する | He was released on bail. | 「ベイル」=法的保証金 | ⬜ |
+| gush | v./n. | 吹き出る，ほとばしる/噴出 | Water gushed from the broken pipe. | 「ガッシュ」=勢いよく流れ出る | ⬜ |
+| gauge | n./v. | 規格，計器/を測定する | Check the fuel gauge. | 「ゲージ」=測定器具 | ⬜ |
+| tavern | n. | 居酒屋，酒場 | They met at the old tavern. | 「タバーン」=昔の酒場 | ⬜ |
+| wicket | n. | 窓口，小門 | Please go to wicket number 3. | 「ウィケット」=サービス窓口 | ⬜ |
+| rapture | n. | 有頂天，大喜び | She was in rapture over the news. | 「ラプチャー」=極度の喜び | ⬜ |
+| skid | v./n. | 横滑りする/滑り止め | The car skidded on the ice. | 「スキッド」=滑る音 | ⬜ |
+| prostitute | n./v. | 売春婦/を売春させる | Laws against prostitution vary. | 「プロスティテュート」=性的商売 | ⬜ |
+| sarcastic | adj. | 皮肉な，嫌みの | His sarcastic comment hurt her. | sarcasm(皮肉) + -ic | ⬜ |
+| fad | n. | 流行，一時的ブーム | Pet rocks were just a fad. | 「ファッド」=短期間の流行 | ⬜ |
+| exalt | v. | 高揚する，称賛する | The victory exalted the team's spirits. | ex(上に) + alt(高い)=高く上げる | ⬜ |
+| cramp | n./v. | けいれん，筋肉痛/をけいれんさせる | I got a cramp in my leg. | 「クランプ」=筋肉の収縮 | ⬜ |
+| delicacy | n. | 優美さ，精巧さ，珍味 | Handle the glass with delicacy. | delicate(繊細な) + -cy | ⬜ |
+| ripple | n./v. | 波紋/波立つ | The stone created ripples in the pond. | 「リップル」=小さな波 | ⬜ |
+| compatible | adj. | 互換性のある，両立できる | The software is compatible with all systems. | com(一緒に) + pat(合う) + -ible | ⬜ |
+| prophecy | n. | 予言，預言 | The prophecy came true. | prophet(預言者) + -cy | ⬜ |
+| par | n. | 同等，等価，標準 | His performance was below par. | 「パー」=標準値，同等 | ⬜ |
+| aviation | n. | 航空，飛行 | She works in the aviation industry. | avi(鳥) + ation=鳥のような飛行 | ⬜ |
+| captivity | n. | 監禁，囚禁 | The animal was kept in captivity. | captive(捕虜) + -ity | ⬜ |
+| desperation | n. | 自暴自棄，絶望 | In desperation, he called for help. | desperate(絶望的) + -tion | ⬜ |
+| shrill | adj. | かん高い，金切り声の | She let out a shrill scream. | 「シュリル」=鋭く高い音 | ⬜ |
+| contagious | adj. | 伝染性の | The disease is highly contagious. | contag(接触) + -ious=接触で移る | ⬜ |
+| strangle | v. | を絞め殺す，窒息させる | The scarf strangled him. | 「ストラングル」=首を締める | ⬜ |
+| quiver | v./n. | 小刻みに揺れる，震える/震え | His voice quivered with emotion. | 「クイバー」=細かく震える | ⬜ |
+| tilt | v./n. | を傾ける，を斜めにする/傾斜 | Tilt the picture frame slightly. | 「ティルト」=角度を変える | ⬜ |
+| arrogance | n. | 傲慢，高慢 | His arrogance made him unpopular. | arrogant(傲慢な) + -ce | ⬜ |
+| tribal | adj. | 部族の | They follow tribal customs. | tribe(部族) + -al | ⬜ |
+| pier | n. | 桟橋，波止場 | We walked along the pier. | 「ピア」=水辺の突堤 | ⬜ |
 
 ### 🔄 復習中の単語
 
@@ -259,6 +291,12 @@
 | win over | を説得する，味方につける | She won over the audience with her speech. | win(勝つ) + over(向こうに)=相手を味方に | ⬜ |
 | give away | を無料で与える，秘密を漏らす | Don't give away the surprise. | give(与える) + away(離れて)=手放す | ⬜ |
 | go numb | しびれる，感覚を失う | My fingers went numb in the cold. | numb(しびれた)状態になる | ⬜ |
+| attribute A to B | AをBに依るものとする，AをBとみなす | He attributes his success to hard work. | attribute(属性)をBに帰する | ⬜ |
+| keep up on | の最新状況を把握する，追いつく | You need to keep up on current events. | keep(保つ) + up(上に) + on(続けて) | ⬜ |
+| clean cut | きちんとした，整然とした | He has a clean cut appearance. | clean(清潔) + cut(切った)=整った | ⬜ |
+| pass out | 気絶する，失神する | She passed out from the heat. | pass(通り過ぎる) + out(外に)=意識が外に | ⬜ |
+| on balance | 考慮すると，結局 | On balance, the plan is good. | balance(天秤)で考えると | ⬜ |
+| hitherto | 従来，今まで | Hitherto unknown facts were revealed. | 「ヒザートゥー」=これまでのところ | ⬜ |
 
 ### ✅ 復習完了した単語
 | 単語 | 品詞 | 意味 | 例文 | 覚え方・メモ | 習得状況 |
