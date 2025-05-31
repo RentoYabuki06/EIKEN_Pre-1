@@ -119,6 +119,11 @@
 | sarcasm | n. | 皮肉，嫌味 | His comment was full of sarcasm. | 「サーカズム」=辛辣な皮肉 | ⬜ |
 | stagger | v. | よろめく，交互にずらす | He staggered home after drinking. | 「スタガー」=ふらつく動き | ⬜ |
 | staggering | adj. | よろめくような，驚くべき | The price was staggering. | stagger(よろめく) + -ing=よろめくほど驚く | ⬜ |
+| lurk | v. | 潜む，待ち伏せする | Danger lurks in the shadows. | 「ラーク」=隠れて待つ | ⬜ |
+| allegedly | adv. | 申し立てによると，伝えられるところでは | He allegedly stole the money. | allege(申し立てる) + -ly | ⬜ |
+| allege | v. | 「（証拠なしに）～を主張する」「申し立てる」 | He alleged that he was unfairly fired. | allege(申し立てる) | ⬜ |
+| agitation | n. | 動揺，興奮，扇動 | The news caused great agitation. | agitate(興奮させる) + -tion | ⬜ |
+| pediatric | adj. | 小児科の，小児医学の | She works in the pediatric ward. | ped(子供) + iatr(医者) + ic | ⬜ |
 
 ### 🔄 復習中の単語
 
@@ -201,6 +206,7 @@
 | lessen | v. | 減らす，少なくする | The pain will lessen over time. | less(少ない) + -en | ⬜ |
 | hearth | n. | 囲炉裏，暖炉 | The family gathered around the hearth. | 「ハース」=家庭の温かい場所 | ⬜ |
 | allied | adj. | 同盟を結んでいる，連携している | The allied forces worked together. | ally(同盟国) + -ed | ⬜ |
+
 
 ### 🔄 復習中の熟語・表現
 
