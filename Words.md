@@ -26,13 +26,19 @@
          	- They tried to lure her into joining the cult.
          	- The company lured talented employees with high salaries.
  - conferとgrantの使い分け
-	 - conferは特別な権利や名誉・称号などを正式に授与する（儀式的・格式が強い）
-		 - The university conferred an honorary degree on the scientist.
-		 - The committee will confer the award next week.
-	 - grantは願いや請求に応じて何かを許可したり資金を与える（実用上のメリットがある行為）
-		 - The government granted funds for the new project.
-		 - She was granted permission to travel abroad.
-
+     - conferは特別な権利や名誉・称号などを正式に授与する（儀式的・格式が強い）
+         - The university conferred an honorary degree on the scientist.
+         - The committee will confer the award next week.
+     - grantは願いや請求に応じて何かを許可したり資金を与える（実用上のメリットがある行為）
+         - The government granted funds for the new project.
+         - She was granted permission to travel abroad.
+ - paralyzeとnumbの使い分け
+     - paralyzeは完全に動けなくなる状態（麻痺）
+         - The accident paralyzed his legs. (事故で彼の足が麻痺した)
+         - Fear paralyzed her completely. (恐怖で彼女は完全に動けなくなった)
+     - numbは感覚がなくなる状態（しびれ、無感覚）
+         - My fingers went numb from the cold. (寒さで指がしびれた)
+         - The injection made my arm numb. (注射で腕の感覚がなくなった)
 
 ### 💡 重点復習中の単語（直近2,3日で間違えた単語たち）
 | 単語 | 品詞 | 意味 | 例文 | 覚え方・メモ | 習得状況 |
@@ -101,6 +107,10 @@
 | avail | v./n. | 利用する，役立つ/利益 | The medicine didn't avail him. | 「アベイル」=有効である | ⬜ |
 | slumber | v./n. | まどろむ，心地よく眠る/眠り | The baby slumbered peacefully. | 「スランバー」=静かな眠り | ⬜ |
 | withstand | v. | 耐える，持ちこたえる | The building withstood the earthquake. | with(反対に) + stand(立つ)=反対に立ち向かう | ⬜ |
+| shrewd | adj. | 抜け目のない，鋭い | He's a shrewd businessman. | 「シュルード」=鋭い判断力 | ⬜ |
+| serene | adj. | 穏やかな，平静な | The lake was serene in the moonlight. | 「セリーン」=静寂で美しい | ⬜ |
+| vacate | v. | を明け渡す，立ち退く | They must vacate the building by noon. | vac(空) + ate=空にする | ⬜ |
+| pledge | v./n. | を誓約する，約束する/誓約 | He pledged to help the poor. | 「プレッジ」=固い約束 | ⬜ |
 
 ### 🔄 復習中の単語
 
@@ -228,12 +238,19 @@
 | catch on | 流行する，受け入れられる | The new style caught on quickly. | catch(つかむ) + on(続く)=広まる | ⬜ |
 | buckle down | 精を出す，全力を尽くす | It's time to buckle down and study. | buckle(バックル)=しっかり締める | ⬜ |
 | play down | を軽く扱う，手軽に扱う，を見くびる | Don't play down the importance of this. | play(演じる) + down(下に)=軽く扱う | ⬜ |
+| sail through | を楽々と通り抜ける，楽に合格する | She sailed through the exam. | sail(帆走)=楽に進む | ⬜ |
+| glare at | をにらみつける，じろじろ見る | He glared at me angrily. | glare(まぶしい光)=鋭い視線 | ⬜ |
+| rack up | を積み重ねる，蓄積する | The team racked up many victories. | rack(棚)に積み上げる | ⬜ |
+| indulge in | にふける，を楽しむ | He indulged in expensive hobbies. | indulge(甘やかす)=自分を甘やかす | ⬜ |
+| win over | を説得する，味方につける | She won over the audience with her speech. | win(勝つ) + over(向こうに)=相手を味方に | ⬜ |
+| give away | を無料で与える，秘密を漏らす | Don't give away the surprise. | give(与える) + away(離れて)=手放す | ⬜ |
+| go numb | しびれる，感覚を失う | My fingers went numb in the cold. | numb(しびれた)状態になる | ⬜ |
 
 ### ✅ 復習完了した単語
 | 単語 | 品詞 | 意味 | 例文 | 覚え方・メモ | 習得状況 |
 |------|------|------|------|-------------|----------|
 | attentive | adj. | 注意深い | She is very attentive to details. | attention(注意) + -ive | ⬜ |
-| canal | n. | 運河 | The Panama Canal is famous. | 「カナル」=人工の水路 | ⬜ |
+| canal | n. | 운河 | The Panama Canal is famous. | 「カナル」=人工の水路 | ⬜ |
 | enchant | v. | 心を奪う，魅惑する | The music enchanted the audience. | en(中に) + chant(歌)=魔法をかける | ⬜ |
 | ample | adj. | 広大な，広い | We have ample time to finish. | 「アンプル」=十分な量の容器 | ⬜ |
 | outer | adj. | 外に，外部の | The outer layer protects the inner one. | out(外) + -er | ⬜ |
