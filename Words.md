@@ -10,6 +10,15 @@
 ## 📚 単語リスト
 
 ### memo
+ - orientalとoccidentalの対比
+     - orientalは「東洋の、東方の」（アジア地域を指す）
+         - Oriental art is known for its intricate designs. (東洋美術は精巧なデザインで知られている)
+         - He studied Oriental philosophy at university. (彼は大学で東洋哲学を学んだ)
+         - The oriental rug was beautifully handwoven. (その東洋絨毯は美しく手織りされていた)
+     - occidentalは「西洋の、西方の」（ヨーロッパ・アメリカ地域を指す）
+         - Occidental music differs greatly from Eastern traditions. (西洋音楽は東洋の伝統とは大きく異なる)
+         - The occidental approach to medicine is scientific. (医学への西洋的アプローチは科学的だ)
+         - She compared occidental and oriental cultures. (彼女は西洋文化と東洋文化を比較した)
  - infertilityとsterileの使い分け
      - infertilityは医学的な「不妊症」（治療可能な場合もある状態）
          - The couple struggled with infertility for years. (その夫婦は何年も不妊症に悩んだ)
