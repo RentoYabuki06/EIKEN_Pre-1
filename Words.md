@@ -112,6 +112,10 @@
 | vacate | v. | を明け渡す，立ち退く | They must vacate the building by noon. | vac(空) + ate=空にする | ⬜ |
 | pledge | v./n. | を誓約する，約束する/誓約 | He pledged to help the poor. | 「プレッジ」=固い約束 | ⬜ |
 | spoil | v. | 台無しにする，損なう, 甘やかす | Don't spoil the surprise. / He spoiled her daugher. | 「スポイル」=ダメにする | ⬜ |
+| turmoil | n. | 混乱，動揺 | The country was in political turmoil. | 「ターモイル」=激しい混乱状態 | ✅ |
+| sarcasm | n. | 皮肉，嫌味 | His comment was full of sarcasm. | 「サーカズム」=辛辣な皮肉 | ⬜ |
+| stagger | v. | よろめく，交互にずらす | He staggered home after drinking. | 「スタガー」=ふらつく動き | ⬜ |
+| staggering | adj. | よろめくような，驚くべき | The price was staggering. | stagger(よろめく) + -ing=よろめくほど驚く | ⬜ |
 
 ### 🔄 復習中の単語
 
